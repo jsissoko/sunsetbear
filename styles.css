@@ -1,0 +1,45 @@
+/* Basic Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header nav {
+    /* Style your navigation bar */
+}
+
+.hero {
+    background-image: url('path-to-your-hero-image.jpg');
+    background-size: cover;
+    height: 400px;
+    /* Other styles for your hero section */
+}
+
+.news {
+    /* Styles for news section */
+}
+
+.philosophy,
+.work-life {
+    padding: 20px;
+    /* Other styles */
+}
+
+.newsletter {
+    background-color: #f0f0f0;
+    padding: 20px;
+    /* Other styles */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    /* Other styles */
+}
